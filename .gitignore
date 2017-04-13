@@ -1,0 +1,7 @@
+#IDEs
+.idea
+.DS_Store
+
+#modules
+node_modules
+bower_components
